@@ -1,0 +1,5 @@
+Buenos día coompañeros.
+Este repositorio clonado es para trabajar el docker, principalmente los agregue porque para hacer hay una serie de pasos:
+1.Se hace el dockerfile de la base de datos, esta tiene que estar conectada para poder hacer
+2. docker file de el backend
+3. docker file para el frontend: uno para el angular y el otroo para el php 
